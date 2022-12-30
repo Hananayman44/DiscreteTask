@@ -1,0 +1,8 @@
+C:\Users\HANAN AYMAN\source\repos\PROJECT 2\PROJECT 2\bin\Debug\PROJECT 2.exe.config
+C:\Users\HANAN AYMAN\source\repos\PROJECT 2\PROJECT 2\bin\Debug\PROJECT 2.exe
+C:\Users\HANAN AYMAN\source\repos\PROJECT 2\PROJECT 2\bin\Debug\PROJECT 2.pdb
+C:\Users\HANAN AYMAN\source\repos\PROJECT 2\PROJECT 2\obj\Debug\PROJECT 2.csproj.AssemblyReference.cache
+C:\Users\HANAN AYMAN\source\repos\PROJECT 2\PROJECT 2\obj\Debug\PROJECT 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\HANAN AYMAN\source\repos\PROJECT 2\PROJECT 2\obj\Debug\PROJECT 2.csproj.CoreCompileInputs.cache
+C:\Users\HANAN AYMAN\source\repos\PROJECT 2\PROJECT 2\obj\Debug\PROJECT 2.exe
+C:\Users\HANAN AYMAN\source\repos\PROJECT 2\PROJECT 2\obj\Debug\PROJECT 2.pdb
