@@ -1,0 +1,8 @@
+C:\Users\HANAN AYMAN\source\repos\PROJECT-1\PROJECT-1\bin\Debug\PROJECT-1.exe.config
+C:\Users\HANAN AYMAN\source\repos\PROJECT-1\PROJECT-1\bin\Debug\PROJECT-1.exe
+C:\Users\HANAN AYMAN\source\repos\PROJECT-1\PROJECT-1\bin\Debug\PROJECT-1.pdb
+C:\Users\HANAN AYMAN\source\repos\PROJECT-1\PROJECT-1\obj\Debug\PROJECT-1.csproj.AssemblyReference.cache
+C:\Users\HANAN AYMAN\source\repos\PROJECT-1\PROJECT-1\obj\Debug\PROJECT-1.csproj.SuggestedBindingRedirects.cache
+C:\Users\HANAN AYMAN\source\repos\PROJECT-1\PROJECT-1\obj\Debug\PROJECT-1.csproj.CoreCompileInputs.cache
+C:\Users\HANAN AYMAN\source\repos\PROJECT-1\PROJECT-1\obj\Debug\PROJECT-1.exe
+C:\Users\HANAN AYMAN\source\repos\PROJECT-1\PROJECT-1\obj\Debug\PROJECT-1.pdb
